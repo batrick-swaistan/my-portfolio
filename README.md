@@ -24,7 +24,7 @@
 
 ## Overview
 
-This project was developed by me for  . And I've experienced more properties in CSS by working on this project 
+![screenshot](https://github.com/batrick-swaistan/team-page/blob/main/portfolio-batrick.PNG)
 
 - You can see my team page by clicking on the solution. I've hosted my project on vercel as well as github pages.
 - It was quite hard for me to complete this project because of a short period and have learnt many new things about css and js.
