@@ -325,7 +325,7 @@ header{
 .skill-box{
     padding: 1rem;
     color: var(--bg-color);
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .skill-title{
