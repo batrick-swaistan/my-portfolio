@@ -26,7 +26,7 @@
 
 ![screenshot](https://github.com/batrick-swaistan/my-portfolio/blob/main/portfolio-batrick.png)
 
-- You can see my team page by clicking on the solution. I've hosted my project on vercel as well as github pages.
+- You can see my portfolio by clicking on the solution. I've hosted my project on vercel as well as github pages.
 - It was quite hard for me to complete this project because of a short period and have learnt many new things about css and js.
 
 ### Built With
