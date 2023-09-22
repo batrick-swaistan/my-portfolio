@@ -212,7 +212,7 @@ header{
 }
 
 .home-text p{
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     margin-bottom: 1.5rem;
 }
 
@@ -254,9 +254,14 @@ header{
 
 
 .about-content{
+   
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 1.5rem;
+    gap: 1rem;
+    padding: 10px 5px 10px 5px;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .about-data span{
@@ -296,7 +301,11 @@ header{
 }
 
 .about-text p{
-    font-size:0.938rem;
+    
+    font-size: 1rem;
+    align-items: center;
+    
+    justify-content: center;
    
     text-align: justify;
     margin-bottom: 1.5rem;
@@ -363,7 +372,7 @@ header{
 .portfolio-content{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 20px;
+    gap: 20px;android-chrome-192x192.png
 }
 
 
