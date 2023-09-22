@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Batrick Swaistan - Portfolio</h1>
+<h1 align="center">Batrick Swaistan -Portfolio</h1>
 
 <div align="center">
   <h3>
